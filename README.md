@@ -7,6 +7,8 @@
 | Competição | Números |
 | -----------|---------|
 | Taça Carioca| 38     |
+| Libertadores| 3     |
+
 ``` 
 git init
 ```
